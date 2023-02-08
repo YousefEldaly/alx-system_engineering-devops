@@ -1,1 +1,1 @@
-This repo contains all the solutios for 0x00-shell_basics project for the alx program
+This repo contains all the solutions for 0x00-Shell-basicd alx program
